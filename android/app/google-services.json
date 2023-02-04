@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "52409061328",
+    "project_id": "buggto-app",
+    "storage_bucket": "buggto-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52409061328:android:1a41c2188680c87caff3d5",
+        "android_client_info": {
+          "package_name": "com.buggto.delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52409061328-jqfrhqrsroi3bmimt7ovpm0i2kfkdgb1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.buggto.delivery_app",
+            "certificate_hash": "636e89901d6e7e612ee6ebf768f74ab18e2f89aa"
+          }
+        },
+        {
+          "client_id": "52409061328-cd7tgjfop09aaf2e6lr5vu35oqhss6rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXyQG56UKHCPtOKrP4qkx0SdzGp6L6XtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52409061328-cd7tgjfop09aaf2e6lr5vu35oqhss6rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52409061328:android:2e07b6ccbeaa1633aff3d5",
+        "android_client_info": {
+          "package_name": "com.buggto.restaurant_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52409061328-lh7c82oth95fvnmiquf3hnqltueacrvu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.buggto.restaurant_app",
+            "certificate_hash": "636e89901d6e7e612ee6ebf768f74ab18e2f89aa"
+          }
+        },
+        {
+          "client_id": "52409061328-cd7tgjfop09aaf2e6lr5vu35oqhss6rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXyQG56UKHCPtOKrP4qkx0SdzGp6L6XtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52409061328-cd7tgjfop09aaf2e6lr5vu35oqhss6rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52409061328:android:4d950f221c3839f6aff3d5",
+        "android_client_info": {
+          "package_name": "com.buggto.user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52409061328-cbav1aa5snimst6g012ee38nrlbftvom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.buggto.user_app",
+            "certificate_hash": "636e89901d6e7e612ee6ebf768f74ab18e2f89aa"
+          }
+        },
+        {
+          "client_id": "52409061328-cd7tgjfop09aaf2e6lr5vu35oqhss6rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXyQG56UKHCPtOKrP4qkx0SdzGp6L6XtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52409061328-cd7tgjfop09aaf2e6lr5vu35oqhss6rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
